@@ -33,7 +33,7 @@ function Homepage() {
                 Saturdays 3:30-5:30 @ Denny Field
               </p>
               <h2>Kentei Testing</h2>
-              <p>Kentei test at UW Kendama club jams and level up!</p>
+              <p>Kentei test at UW Kendama Club jams and level up!</p>
               <button onClick={() => window.open('https://kendamakentei.com/en/trick/index.html', '_blank')}>Trick List</button>
               <h2>Social Media</h2>
               <div className='social-container'>
