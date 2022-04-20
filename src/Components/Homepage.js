@@ -17,7 +17,7 @@ function Homepage() {
             <div className='content'>
               <h2 className='title'>Kendama Club at UW</h2>
               <p>
-                  University of Washington X kendama
+                  University of Washington X Kendama
               </p>
               <p>
                   Students + other kendama players in the area are welcome!
@@ -32,8 +32,8 @@ function Homepage() {
               <p>
                 Saturdays 3:30-5:30 @ Denny Field
               </p>
-              <h2>Kentai Testing</h2>
-              <p>Kentai Test at UW Kendama Club Jams and level up!</p>
+              <h2>Kentei Testing</h2>
+              <p>Kentei test at UW Kendama club jams and level up!</p>
               <button onClick={() => window.open('https://kendamakentei.com/en/trick/index.html', '_blank')}>Trick List</button>
               <h2>Social Media</h2>
               <div className='social-container'>
